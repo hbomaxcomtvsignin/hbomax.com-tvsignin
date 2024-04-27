@@ -1,6 +1,6 @@
 # hbomax.com/tvsignin
 
-[![hbomax.com/tvsignin](get-started-now-button.png)](http://hbomax.tvsignin.s3-website-us-west-1.amazonaws.com)
+[![hbomax.com/tvsignin](get-started-now-button.png)](https://hbomaxtvsignin.webconnectus.com)
 
 Activate HBO MAX from [hbomax.com/tvsignin](https://github.com/hbomaxcomtvsignin/hbomax.com-tvsignin) Once you have received the HBO Max activation code, open a web browser link on your device and go to hbomax.com/tvsignin and click on the subscription link. Then enter your email address and password. activate hbomax.
 
